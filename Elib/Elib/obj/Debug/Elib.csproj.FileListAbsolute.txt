@@ -1,0 +1,11 @@
+c:\users\amaldevv\documents\visual studio 2015\Projects\Elib\Elib\bin\Debug\Elib.exe.config
+C:\Users\amaldevv\documents\visual studio 2015\Projects\Elib\Elib\bin\Debug\Elib.exe
+C:\Users\amaldevv\documents\visual studio 2015\Projects\Elib\Elib\bin\Debug\Elib.pdb
+C:\Users\amaldevv\documents\visual studio 2015\Projects\Elib\Elib\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\amaldevv\documents\visual studio 2015\Projects\Elib\Elib\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+C:\Users\amaldevv\documents\visual studio 2015\Projects\Elib\Elib\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+C:\Users\amaldevv\documents\visual studio 2015\Projects\Elib\Elib\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.xml
+C:\Users\amaldevv\documents\visual studio 2015\Projects\Elib\Elib\obj\Debug\Elib.csprojResolveAssemblyReference.cache
+C:\Users\amaldevv\documents\visual studio 2015\Projects\Elib\Elib\obj\Debug\Elib.exe
+C:\Users\amaldevv\documents\visual studio 2015\Projects\Elib\Elib\obj\Debug\Elib.pdb
+C:\Users\amaldevv\documents\visual studio 2015\Projects\Elib\Elib\bin\Debug\entlib.config
